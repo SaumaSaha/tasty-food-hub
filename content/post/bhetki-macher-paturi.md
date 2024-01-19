@@ -6,9 +6,13 @@ draft = true
 
 ## Introduction
 
-Bhetki Macher Paturi is a popular Bengali dish that features bhetki fish, a type of freshwater fish, marinated in a flavorful mixture and then wrapped in banana leaves before being steamed or grilled. This cooking technique imparts a unique and delicious taste to the fish.
+---
 
-## Ingredients:
+Bhetki Macher Paturi is a popular Bengali dish that features bhetki fish, a type of freshwater fish, marinated in a flavorful mixture and then wrapped in banana leaves before being steamed or grilled. This cooking technique imparts a unique and delicious taste to the fish. This dish is not only visually appealing due to the use of banana leaves but also captures the rich and harmonious flavors of mustard, poppy seeds, and coconut that are characteristic of Bengali cuisine. It's a delightful choice for fish lovers looking to explore the diverse and delicious world of regional Indian cuisine.
+
+## Ingredients
+
+---
 
 1. Bhetki fish fillets
 2. Mustard paste
@@ -20,7 +24,9 @@ Bhetki Macher Paturi is a popular Bengali dish that features bhetki fish, a type
 8. Salt to taste
 9. Banana leaves for wrapping
 
-## Instructions:
+## Instructions
+
+---
 
 To replicate Bhetki Macher Paturi at home, you might want to consider the following steps:
 
@@ -51,16 +57,19 @@ If grilling, place the wrapped fish on a hot grill and cook until the banana lea
 Once cooked, carefully open the banana leaf parcels.
 Serve the Bhetki Macher Paturi hot with steamed rice. The banana leaves impart a distinct aroma to the dish.
 
-## Places where to try this dish:
+## Places where to try this dish
 
-1. [Oh! Calcutta EM Bypass](https://maps.app.goo.gl/S76d8VWB9B7GFpiLA)
-2. [Oh! Calcutta Elgin Road](https://maps.app.goo.gl/M6ky7vSSNZSY45to8)
-3. [6 Ballygunge Place](https://maps.app.goo.gl/Y3YqagaTTHaV2G3L6)
-4. [Kasturi](https://maps.app.goo.gl/Gye4S2HAeB4YZ8cP9)
-5. [Bhojohori Manna](https://maps.app.goo.gl/14BaWixN25PGZ7t69)
-6. [Koshe Kosha](https://maps.app.goo.gl/suq6DEYS5sEWpxQt5)
+---
 
-## History:
+1. [Oh! Calcutta Elgin Road](https://maps.app.goo.gl/M6ky7vSSNZSY45to8)
+2. [6 Ballygunge Place](https://maps.app.goo.gl/Y3YqagaTTHaV2G3L6)
+3. [Kasturi](https://maps.app.goo.gl/Gye4S2HAeB4YZ8cP9)
+4. [Bhojohori Manna](https://maps.app.goo.gl/14BaWixN25PGZ7t69)
+5. [Koshe Kosha](https://maps.app.goo.gl/suq6DEYS5sEWpxQt5)
+
+## History
+
+---
 
 The history of Bhetki Macher Paturi is deeply rooted in the culinary traditions of Bengal, an eastern region of India known for its rich and diverse cuisine. Bengali cuisine is characterized by its use of distinct flavors, spices, and cooking techniques, and Bhetki Macher Paturi is a classic example of this culinary heritage.
 

@@ -6,9 +6,13 @@ draft = true
 
 ## Introduction
 
+---
+
 Kolkata is famous for its fish-based dishes, and one of the most beloved is the "Fish Fry." Fish fry in Kolkata typically involves marinating fish fillets in a mixture of spices and then deep-frying them until crispy. The marinade often includes a combination of turmeric, red chili powder, cumin, coriander, ginger, garlic, and sometimes mustard.
 
-## Ingredients:
+## Ingredients
+
+---
 
 To replicate a Kolkata-style fish fry at home, you might want to consider the following steps:
 
@@ -22,23 +26,37 @@ To replicate a Kolkata-style fish fry at home, you might want to consider the fo
 8. Mustard oil (for marination and frying)
 9. Lemon wedges (for serving)
 
-## Instructions:
+## Instructions
+
+---
 
 1. Clean and pat dry the fish fillets.
-2. In a bowl, mix turmeric powder, red chili powder, cumin powder, coriander powder, ginger-garlic paste, salt, and mustard oil to create a thick marinade.
+
+2. In a bowl, mix turmeric powder, red chili powder, cumin powder, coriander powder, ginger-garlic
+   paste, salt, and mustard oil to create a thick marinade.
+
 3. Coat the fish fillets evenly with the marinade and let them marinate for at least 30 minutes to allow the flavors to infuse.
+
 4. Heat mustard oil in a pan for deep-frying.
+
 5. Dip each marinated fish fillet in a batter or breadcrumbs for added crunch if desired.
+
 6. Fry the fish fillets until they turn golden brown and crispy.
+
 7. Remove the fish from the oil and place them on absorbent paper to drain excess oil.
+
 8. Serve hot with lemon wedges and your favorite dipping sauce.
 
-## Places where to try this dish:
+## Places where to try this dish
+
+---
 
 1. [Mitra Cafe](https://maps.app.goo.gl/qFZp5NXG7jwSdRfw5)
 2. [Chittoda's Suruchee Restaurant](https://maps.app.goo.gl/RDkRDuWyZrJqf45j9)
 
-## History:
+## History
+
+---
 
 The Kolkata-style fish fry is an integral part of the culinary heritage of Kolkata, India, and it has a history deeply rooted in the city's cultural and gastronomic traditions. While it's challenging to pinpoint an exact historical timeline for this particular dish, we can explore the broader context of Kolkata's culinary evolution.
 
