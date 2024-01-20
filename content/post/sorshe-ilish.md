@@ -10,12 +10,6 @@ draft = true
 
 Shorshe Ilish, also known as Hilsa fish in mustard sauce, is a traditional Bengali dish that highlights the unique and delectable flavors of the Hilsa fish, a popular and prized variety in Bengali cuisine. This dish is especially enjoyed during the monsoon season when Hilsa is abundant in rivers and estuaries. Shorshe Ilish is not only a gastronomic delight but also a significant cultural dish, celebrated during festivals and special occasions in Bengali households.
 
-Ingredients:
-
-Procedure:
-
-Shorshe Ilish is not only a gastronomic delight but also a significant cultural dish, celebrated during festivals and special occasions in Bengali households.
-
 ## Ingredients
 
 ---
