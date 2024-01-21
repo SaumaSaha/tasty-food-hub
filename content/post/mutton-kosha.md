@@ -48,6 +48,9 @@ Mutton Kosha, also known as Kosha Mangsho, is a popular and flavorful Bengali di
 7. [Sholo Ana Bangali](https://maps.app.goo.gl/K9d1J51hbeoGaWhL7)
 8. [Tero Parbon](https://maps.app.goo.gl/oLrehdBnvvd86LAv7)
 9. [Aaheli](https://maps.app.goo.gl/dSHCADTtgAeWFmDN6)
+10. [Oh! Calcutta Elgin Road](https://maps.app.goo.gl/M6ky7vSSNZSY45to8)
+11. [Sonar Tori Restaurant](https://maps.app.goo.gl/7PwvwxC22DkpsF3S6)
+12. [Eden Pavilion, ITC Sonar](https://maps.app.goo.gl/EoSh3qHkBsaStARm7)
 
 ## History
 
