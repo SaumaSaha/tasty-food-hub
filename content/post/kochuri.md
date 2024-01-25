@@ -77,6 +77,8 @@ Serve hot kochuri with your favorite chutney or a side of aloo dum (spiced potat
 
 ## History
 
+---
+
 The history of kochuri is deeply rooted in the culinary traditions of the Indian subcontinent, particularly in regions like Bengal, North India, and Bangladesh. The term "kochuri" is often used interchangeably with "kachori" in many parts of India. The exact origins of kochuri are not precisely documented, but its history is intertwined with the rich and diverse culinary heritage of the subcontinent.
 
 1. Ancient Culinary Practices: The concept of stuffed bread or pastries is not unique to kochuri and has been a part of Indian cuisine for centuries. Various forms of stuffed bread, including kachori-like preparations, have likely been made in households across different regions for generations.
