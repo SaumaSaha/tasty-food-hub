@@ -1,5 +1,5 @@
 +++
-title = 'Chingri Mach'er Malaikari'
+title = "Chingri Mach'er Malaikari"
 date = 2024-01-25T11:46:02+05:30
 draft = true
 +++
