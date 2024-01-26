@@ -14,26 +14,87 @@ Mutton Kosha, also known as Kosha Mangsho, is a popular and flavorful Bengali di
 
 ---
 
-1. Mutton (goat meat): Usually bone-in pieces are used for better flavor.
-2. Onions: Sliced and caramelized to add sweetness to the gravy.
-3. Tomatoes: Chopped or pureed to provide a tangy flavor.
-4. Ginger-Garlic Paste: For the base flavor.
-5. Green Chilies: To add heat.
-6. Yogurt: Adds creaminess and helps tenderize the meat.
-7. Spices: Commonly used spices include cumin, coriander, turmeric, red chili powder, garam masala, and bay leaves.
-8. Mustard Oil: Traditionally used for cooking in Bengali cuisine, adding a distinctive flavor
+#### For Marination:
+
+- 1 kg mutton, cut into pieces (bone-in pieces for better flavor)
+- 1 cup yogurt
+- 1 tablespoon ginger-garlic paste
+- 1 teaspoon turmeric powder
+- Salt to taste
+
+#### For the Spice Mix:
+
+- 2 teaspoons cumin powder
+- 2 teaspoons coriander powder
+- 2 teaspoons red chili powder (adjust to taste)
+- 1 teaspoon turmeric powder
+- 1 teaspoon garam masala
+
+#### Other Ingredients:
+
+- 4 tablespoons mustard oil
+- 3 large onions, thinly sliced
+- 2 tomatoes, chopped
+- 4-5 green chilies, slit
+- 2 tablespoons ginger, julienned
+- 4-5 cloves of garlic, minced
+- 2-3 bay leaves
+- 1 cinnamon stick
+- 4-5 green cardamom pods
+- 4-5 cloves
+- Salt to taste
+- Fresh coriander leaves for garnish
 
 ## Instructions
 
 ---
 
-1. Marinate the mutton pieces with yogurt, ginger-garlic paste, turmeric, and salt. Allow it to marinate for at least a few hours or overnight for better flavor absorption.
-2. Heat mustard oil in a heavy-bottomed pan. The use of mustard oil contributes to the authentic taste of the dish.
-3. Add sliced onions and sauté until golden brown, giving a sweet base to the curry.
-4. Add the marinated mutton and cook until the meat is seared and browned.
-5. Incorporate chopped tomatoes, green chilies, and the remaining spices. Cook until the oil starts to separate from the masala, indicating that it's well-cooked.
-6. Slow-cook the mutton, allowing it to absorb the flavors. This step is crucial for the kosha preparation, and it may take some time until the meat is tender and the gravy reaches the desired consistency.
-7. Adjust seasoning and garnish with fresh coriander leaves before serving.
+1. **Marinate the Mutton:**
+
+   - In a large bowl, combine mutton pieces with yogurt, ginger-garlic paste, turmeric powder, and salt.
+   - Mix well, ensuring that each piece is well-coated. Allow it to marinate for at least 2-3 hours, or preferably overnight in the refrigerator.
+
+2. **Prepare the Spice Mix:**
+
+   - In a small bowl, mix together cumin powder, coriander powder, red chili powder, turmeric powder, and garam masala. Set aside.
+
+3. **Cooking:**
+
+   - Heat mustard oil in a heavy-bottomed pan or a pressure cooker until it reaches smoking point. Be sure to use a well-ventilated kitchen or open windows as mustard oil has a strong aroma.
+   - Add thinly sliced onions and sauté until they turn golden brown. This caramelization adds sweetness to the curry.
+
+4. **Add Whole Spices:**
+
+   - Add bay leaves, cinnamon stick, green cardamom pods, and cloves to the caramelized onions. Sauté for a minute until the spices release their aroma.
+
+5. **Add Ginger and Garlic:**
+
+   - Add julienned ginger and minced garlic to the pan. Sauté for another minute until the raw smell disappears.
+
+6. **Add Tomatoes and Green Chilies:**
+
+   - Add chopped tomatoes and slit green chilies. Cook until the tomatoes become soft and the oil starts to separate from the masala.
+
+7. **Add Spice Mix:**
+
+   - Lower the heat and add the prepared spice mix. Cook the masala on low heat, stirring continuously, until the oil separates from the spices. This is crucial for the flavor of the Kosha.
+
+8. **Add Marinated Mutton:**
+
+   - Add the marinated mutton pieces to the spice mix. Increase the heat to medium-high and sear the meat until it's browned on all sides.
+
+9. **Slow-Cook the Mutton:**
+
+   - If using a pressure cooker, add a little water, close the lid, and cook for 4-5 whistles or until the mutton is tender. If using a pan, cover and simmer on low heat until the mutton is cooked through. This slow-cooking process allows the flavors to meld.
+
+10. **Adjust Seasoning:**
+
+    - Once the mutton is cooked, check for seasoning and adjust salt and spice levels as needed. If the gravy is too thin, you can cook it uncovered for a bit to thicken.
+
+11. **Garnish and Serve:**
+    - Garnish with fresh coriander leaves. Serve Mutton Kosha hot with steamed rice, pulao, paratha, or naan.
+
+Enjoy your delicious and flavorful Mutton Kosha!
 
 ## Places where to try this dish
 

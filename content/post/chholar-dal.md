@@ -18,27 +18,66 @@ The combination of aromatic spices, coconut, and ghee gives Bengali style Chhola
 
 ---
 
-1. Chana Dal (Bengal gram): The main ingredient, soaked and cooked until tender.
-2. Coconut: Grated or chopped coconut adds a rich texture and nutty flavor to the dal.
-3. Ghee (clarified butter): Used for tempering and enhancing the overall taste.
-4. Whole Spices: Bay leaves, cinnamon, cardamom, and cloves are commonly used for tempering.
-5. Green Chilies: Adds a hint of spiciness to the dish.
-6. Ginger: Freshly grated or chopped ginger is added for its unique flavor.
-7. Asafoetida (Hing): A pinch of asafoetida is used in the tempering for a subtle, savory taste.
-8. Turmeric Powder: Gives the dal a warm golden color.
-9. Sugar: A small amount of sugar is added to balance the flavors.
-10. Salt: To taste.
+1. 1 cup chana dal (Bengal gram), soaked for 2-3 hours
+2. 1/2 cup grated coconut
+3. 2-3 green chilies, chopped
+4. 1-inch piece of ginger, grated
+5. 1/2 teaspoon turmeric powder
+6. 1 teaspoon sugar
+7. Salt to taste
+8. 3 tablespoons ghee (clarified butter)
+9. 1 bay leaf
+10. 1-inch cinnamon stick
+11. 3-4 green cardamom pods
+12. 4-5 cloves
+13. A pinch of asafoetida (hing)
 
 ## Instructions
 
 ---
 
-1. Soak chana dal for a few hours and then cook until it becomes soft but not mushy.
-2. In a pan, heat ghee and add the whole spices (bay leaves, cinnamon, cardamom, cloves).
-3. Add asafoetida, chopped green chilies, and grated ginger to the tempering mixture.
-4. Stir in the cooked chana dal, turmeric powder, sugar, and salt.
-5. Add the grated coconut to the dal and mix well.
-6. Allow the dal to simmer for a few minutes until the flavors meld.
+1. **Soak and Cook Chana Dal:**
+
+   - Rinse the chana dal thoroughly and soak it in water for 2-3 hours.
+   - After soaking, drain the water and cook the dal with enough water until it becomes soft but not mushy. You can use a pressure cooker for quicker cooking.
+
+2. **Prepare Coconut Mixture:**
+
+   - Grind the grated coconut, chopped green chilies, and grated ginger into a coarse paste using a blender or mortar and pestle.
+
+3. **Tempering (Tadka):**
+
+   - Heat ghee in a pan on medium heat.
+   - Add bay leaf, cinnamon stick, green cardamom pods, cloves, and a pinch of asafoetida. Sauté for a minute until the spices release their aroma.
+
+4. **Add Coconut Mixture:**
+
+   - Add the ground coconut mixture to the pan and sauté for 2-3 minutes until the raw smell disappears.
+
+5. **Add Turmeric, Sugar, and Salt:**
+
+   - Stir in turmeric powder, sugar, and salt. Mix well with the coconut mixture.
+
+6. **Combine with Cooked Dal:**
+
+   - Add the cooked chana dal to the pan and mix everything together. Allow the dal to simmer on low heat for about 5-7 minutes, allowing the flavors to blend.
+
+7. **Adjust Consistency:**
+
+   - If the dal is too thick, you can add a little water to achieve the desired consistency. Stir well.
+
+8. **Check Seasoning:**
+
+   - Taste and adjust the seasoning according to your preference. You can add more salt or sugar if needed.
+
+9. **Garnish:**
+
+   - Optionally, you can garnish the Chholar Dal with fresh coriander leaves for added flavor and freshness.
+
+10. **Serve:**
+    - Bengali style Chholar Dal is typically served hot and is a great accompaniment to [Kochuri](./kochuri.md) or steamed rice.
+
+Enjoy your delicious Bengali-style Chholar Dal!
 
 ## Places where to try this dish
 

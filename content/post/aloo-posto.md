@@ -14,36 +14,83 @@ Aloo Posto is a traditional Bengali dish from the eastern part of India, specifi
 
 ---
 
-1. Potatoes (aloo): Peeled and diced
-2. Poppy seeds (posto): Soaked in water
-3. Mustard oil: For cooking
-4. Green chilies: Slit, for spiciness
-5. Turmeric powder: For color and flavor
-6. Salt: To taste
-7. Sugar: A pinch (optional)
-8. Water: As needed
+1. 4 medium-sized potatoes, peeled and diced
+2. 3 tablespoons poppy seeds (posto), soaked in water for a few hours or overnight
+3. 4-5 green chilies, slit
+4. 1/2 teaspoon turmeric powder
+5. Salt to taste
+6. A pinch of sugar (optional)
+7. 3 tablespoons mustard oil
+8. Water, as needed
 
 ## Instructions
 
 ---
 
-1. Soak the poppy seeds in water for a few hours or overnight. Then, grind them into a smooth paste.
+1. **Soak Poppy Seeds:**
 
-2. Heat mustard oil in a pan. Mustard oil is commonly used in Bengali cuisine for its distinct flavor. Be sure to heat it until it reaches its smoking point and then cool it down a bit.
+   - Place poppy seeds in a bowl and cover them with water.
+   - Allow them to soak for a few hours or overnight.
 
-3. Add the diced potatoes to the heated oil and sauté them until they are lightly golden.
+2. **Prepare Poppy Seed Paste:**
 
-4. Add the green chilies and turmeric powder to the potatoes. Stir well to coat the potatoes evenly.
+   - After soaking, drain the water from the poppy seeds.
+   - Grind the poppy seeds into a smooth paste using a grinder or mortar and pestle. You can add a little water to aid in the grinding process.
 
-5. Now, add the poppy seed paste to the pan. Mix it thoroughly with the potatoes.
+3. **Prepare Potatoes:**
 
-6. Season the mixture with salt according to taste. Add a pinch of sugar if desired for a hint of sweetness.
+   - Peel and dice the potatoes into medium-sized cubes.
 
-7. Cook the mixture on low to medium heat, stirring occasionally. Add water gradually to achieve the desired consistency.
+4. **Heat Mustard Oil:**
 
-8. Continue cooking until the potatoes are tender, and the poppy seed paste forms a creamy coating around them.
+   - Heat mustard oil in a pan until it reaches its smoking point.
+   - Allow it to cool slightly to reduce its pungency.
 
-9. Once the potatoes are cooked through, and the poppy seed paste has thickened, the Aloo Posto is ready to be served.
+5. **Sauté Potatoes:**
+
+   - Add the diced potatoes to the heated oil.
+   - Sauté the potatoes until they turn lightly golden.
+
+6. **Add Turmeric and Green Chilies:**
+
+   - Add slit green chilies and turmeric powder to the sautéed potatoes.
+   - Mix well to coat the potatoes evenly with the spices.
+
+7. **Add Poppy Seed Paste:**
+
+   - Add the prepared poppy seed paste to the pan.
+   - Stir well, ensuring that the potatoes are coated with the poppy seed mixture.
+
+8. **Seasoning:**
+
+   - Season with salt according to taste.
+   - Optionally, add a pinch of sugar for a subtle sweetness.
+
+9. **Cooking:**
+
+   - Cook the mixture on low to medium heat.
+   - Gradually add water to achieve the desired consistency. The poppy seed paste will thicken as it cooks.
+
+10. **Simmer Until Potatoes are Tender:**
+
+    - Continue cooking and stirring occasionally until the potatoes are tender and the poppy seed paste forms a creamy coating.
+
+11. **Check Seasoning:**
+
+    - Taste and adjust salt and sugar if needed.
+
+12. **Serve:**
+
+    - Once the potatoes are cooked through and the poppy seed paste has thickened, your Aloo Posto is ready to be served.
+
+13. **Garnish (Optional):**
+
+    - Garnish with a drizzle of mustard oil before serving for an extra burst of flavor.
+
+14. **Serve Hot:**
+    - Aloo Posto is typically served hot with steamed rice.
+
+Enjoy your delicious and authentic Bengali Aloo Posto!
 
 ## Places where to try this dish
 

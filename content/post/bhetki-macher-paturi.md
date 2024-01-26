@@ -14,14 +14,14 @@ Bhetki Macher Paturi is a popular Bengali dish that features bhetki fish, a type
 
 ---
 
-1. Bhetki fish fillets
-2. Mustard paste
-3. Poppy seed paste
-4. Coconut paste
-5. Green chilies (paste or finely chopped)
-6. Mustard oil
-7. Turmeric powder
-8. Salt to taste
+1. 500 grams Bhetki fish fillets
+2. 3 tablespoons mustard paste
+3. 2 tablespoons poppy seed paste
+4. 4 tablespoons coconut paste
+5. 2-3 green chilies, finely chopped or made into a paste
+6. 1 teaspoon turmeric powder
+7. Salt to taste
+8. 4 tablespoons mustard oil
 9. Banana leaves for wrapping
 
 ## Instructions
@@ -30,32 +30,35 @@ Bhetki Macher Paturi is a popular Bengali dish that features bhetki fish, a type
 
 To replicate Bhetki Macher Paturi at home, you might want to consider the following steps:
 
-1. Marination:
+1. **Marination:**
 
-Clean and pat dry the bhetki fish fillets.
-In a mixing bowl, combine mustard paste, poppy seed paste, coconut paste, green chili paste (adjust according to your spice preference), turmeric powder, and salt.
-Add mustard oil to the mixture. Mustard oil is a crucial element in Bengali cuisine and contributes to the unique flavor of the dish.
+   - Clean the Bhetki fish fillets thoroughly and pat them dry with a paper towel.
+   - In a mixing bowl, combine mustard paste, poppy seed paste, coconut paste, chopped green chilies, turmeric powder, and salt.
+   - Add mustard oil to the mixture and blend everything well to form a smooth, thick marinade.
 
-2. Coating the Fish:
+2. **Coating the Fish:**
 
-Coat each fish fillet generously with the prepared mixture. Ensure that the fillets are well-covered on all sides.
+   - Coat each fish fillet generously with the prepared marinade. Make sure to cover the fillets on all sides, ensuring they are well-coated with the flavorful mixture.
+   - Allow the fish to marinate for at least 30 minutes. This allows the flavors to penetrate the fish.
 
-3. Banana Leaf Wrapping:
+3. **Banana Leaf Wrapping:**
 
-Cut banana leaves into square or rectangular pieces large enough to wrap each fish fillet.
-Lightly heat the banana leaves to make them pliable and easier to work with.
-Place a marinated fish fillet in the center of a banana leaf piece, and fold the leaf to create a neat parcel. Secure the edges with toothpicks or twine.
+   - Cut banana leaves into square or rectangular pieces, large enough to wrap each fish fillet.
+   - Lightly heat the banana leaves over an open flame or in a pan to make them pliable and easy to work with.
+   - Place a marinated fish fillet in the center of a banana leaf piece and fold the leaf to create a neat parcel. Secure the edges with toothpicks or kitchen twine.
 
-4.Cooking:
+4. **Cooking:**
 
-Bhetki Macher Paturi can be prepared by either steaming or grilling.
-If steaming, place the banana leaf-wrapped fish parcels in a steamer and steam until the fish is cooked through.
-If grilling, place the wrapped fish on a hot grill and cook until the banana leaves are charred and the fish is cooked.
+   - Bhetki Macher Paturi can be prepared by either steaming or grilling.
+     - **Steaming:** Place the banana leaf-wrapped fish parcels in a steamer and steam for about 15-20 minutes or until the fish is cooked through.
+     - **Grilling:** If grilling, place the wrapped fish on a hot grill and cook until the banana leaves are charred, and the fish is cooked.
 
-5. Serving:
+5. **Serving:**
 
-Once cooked, carefully open the banana leaf parcels.
-Serve the Bhetki Macher Paturi hot with steamed rice. The banana leaves impart a distinct aroma to the dish.
+   - Once cooked, carefully open the banana leaf parcels.
+   - Serve the Bhetki Macher Paturi hot with steamed rice. The banana leaves impart a distinct aroma to the dish.
+
+Enjoy this traditional Bengali delicacy that combines the subtle flavors of mustard, poppy seeds, and coconut with the tender texture of Bhetki fish, all enveloped in the natural fragrance of banana leaves. It's a delightful dish that showcases the unique culinary heritage of Bengal.
 
 ## Places where to try this dish
 

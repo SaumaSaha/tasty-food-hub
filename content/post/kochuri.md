@@ -42,19 +42,19 @@ Kochuri, also known as kachori, is a popular deep-fried snack originating from t
 
 ---
 
-1. Prepare the Dal Filling:
+1. **Prepare the Dal Filling:**
 
    - Rinse the lentils thoroughly and soak them in water for a few hours.
    - Boil the soaked lentils until they are soft but not mushy.
    - Heat oil in a pan, add cumin seeds, ginger, and green chilies. Sauté until aromatic.
    - Add boiled lentils, coriander powder, turmeric powder, red chili powder, and salt. Cook the dal mixture until it dries up and becomes a thick, well-cooked consistency.
 
-2. Prepare the Dough:
+2. **Prepare the Dough:**
 
    - In a bowl, combine the all-purpose flour, semolina, salt, and oil or ghee.
    - Gradually add water and knead to form a smooth and elastic dough. Cover and let it rest for about 15-20 minutes.
 
-3. Assemble and Fry:
+3. **Assemble and Fry:**
    - Divide the dough into small balls. Roll each ball into a small disc.
    - Place a spoonful of the prepared dal filling in the center of the disc.
    - Seal the edges to form a stuffed ball and gently flatten it.

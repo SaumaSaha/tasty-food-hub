@@ -16,36 +16,58 @@ Kolkata is famous for its fish-based dishes, and one of the most beloved is the 
 
 To replicate a Kolkata-style fish fry at home, you might want to consider the following steps:
 
-1. Fish fillets (such as Bhetki, Rohu, or Katla)
-2. Turmeric powder
-3. Red chili powder
-4. Cumin powder
-5. Coriander powder
-6. Ginger-garlic paste
+1. 500 grams of fish fillets (Bhetki is used generally)
+2. 1 teaspoon turmeric powder
+3. 1 teaspoon red chili powder
+4. 1 teaspoon cumin powder
+5. 1 teaspoon coriander powder
+6. 1 tablespoon ginger-garlic paste
 7. Salt to taste
-8. Mustard oil (for marination and frying)
-9. Lemon wedges (for serving)
+8. 2 tablespoons mustard oil (plus extra for frying)
+9. 2 eggs, beaten
+10. Bread crumbs for coating
+11. Lemon wedges for serving
 
 ## Instructions
 
 ---
 
-1. Clean and pat dry the fish fillets.
+1. **Clean and Marinate the Fish:**
 
-2. In a bowl, mix turmeric powder, red chili powder, cumin powder, coriander powder, ginger-garlic
-   paste, salt, and mustard oil to create a thick marinade.
+   - Clean the fish fillets and pat them dry.
+   - In a bowl, mix turmeric powder, red chili powder, cumin powder, coriander powder, ginger-garlic paste, salt, and 2 tablespoons of mustard oil to create a thick marinade.
+   - Coat the fish fillets evenly with the marinade. Allow them to marinate for at least 30 minutes.
 
-3. Coat the fish fillets evenly with the marinade and let them marinate for at least 30 minutes to allow the flavors to infuse.
+2. **Prepare the Egg Mixture:**
 
-4. Heat mustard oil in a pan for deep-frying.
+   - Beat the eggs in a shallow bowl. This will be used for dipping the marinated fish.
 
-5. Dip each marinated fish fillet in a batter or breadcrumbs for added crunch if desired.
+3. **Coat the Fish with Egg and Bread Crumbs:**
 
-6. Fry the fish fillets until they turn golden brown and crispy.
+   - Heat mustard oil in a pan for deep-frying.
+   - Dip each marinated fish fillet into the beaten eggs, ensuring it is well-coated.
+   - Roll the egg-coated fish fillet in bread crumbs, making sure to coat it thoroughly.
 
-7. Remove the fish from the oil and place them on absorbent paper to drain excess oil.
+4. **Deep-Fry the Fish:**
 
-8. Serve hot with lemon wedges and your favorite dipping sauce.
+   - Carefully place the coated fish fillets into the hot oil. Fry them on medium heat until they turn golden brown and crispy on both sides.
+   - Fry the fish in batches, avoiding overcrowding the pan.
+
+5. **Drain Excess Oil:**
+
+   - Use a slotted spoon to remove the fried fish from the oil.
+   - Place the fried fish on a plate lined with absorbent paper to drain excess oil.
+
+6. **Serve Hot:**
+   - Serve the Kolkata-style fish fry hot, garnished with lemon wedges.
+   - It can be accompanied by green chutney, kasundi (Bengali mustard sauce), or any dipping sauce of your choice.
+
+### Note:
+
+- Adjust the quantity of spices according to your taste preferences.
+- The use of eggs and bread crumbs creates a crispy coating, enhancing the texture of the fish fry.
+
+Feel free to customize the recipe to suit your taste, and enjoy this delicious Kolkata-style fish fry!
 
 ## Places where to try this dish
 

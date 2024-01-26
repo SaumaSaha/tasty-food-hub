@@ -14,20 +14,20 @@ Chingri Mach'er Malaikari is a traditional Bengali dish that features prawns (ch
 
 ---
 
-- 500 grams of fresh prawns, cleaned and deveined
-- 1 cup coconut milk (freshly extracted or canned)
-- 2 tablespoons mustard oil
-- 1 teaspoon turmeric powder
-- 1 teaspoon red chili powder
-- 1 teaspoon cumin powder
-- 1 teaspoon coriander powder
-- 2 tablespoons ginger, minced
-- 2 tablespoons garlic, minced
-- 2 green chilies, sliced
-- 1 tablespoon ghee (optional)
-- 1 teaspoon sugar
-- Salt to taste
-- Fresh coriander leaves for garnish
+1. 500 grams of fresh prawns, cleaned and deveined
+2. 1 cup coconut milk (freshly extracted or canned)
+3. 2 tablespoons mustard oil
+4. 1 teaspoon turmeric powder
+5. 1 teaspoon red chili powder
+6. 1 teaspoon cumin powder
+7. 1 teaspoon coriander powder
+8. 2 tablespoons ginger, minced
+9. 2 tablespoons garlic, minced
+10. 2 green chilies, sliced
+11. 1 tablespoon ghee (optional)
+12. 1 teaspoon sugar
+13. Salt to taste
+14. Fresh coriander leaves for garnish
 
 ## Instructions
 

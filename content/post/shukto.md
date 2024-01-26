@@ -60,89 +60,89 @@ Here's a basic recipe for making Shukto. Keep in mind that variations exist, and
 
 ### Ingredients:
 
-- Bitter gourd (karela)
-- Bitter drumsticks (shojne phool)
-- Raw banana
-- Sweet potato
-- Eggplant (brinjal)
-- Drumsticks
-- Radish
-- Mustard oil
-- Nigella seeds (kalonji)
-- Turmeric powder
-- Mustard paste
-- Poppy seed paste (posto)
-- Green chilies
-- Ginger paste
-- Panch phoron
-- Milk or coconut milk
-- Water
-- Salt to taste
+1. Bitter gourd (karela)
+2. Bitter drumsticks (shojne phool)
+3. Raw banana
+4. Sweet potato
+5. Eggplant (brinjal)
+6. Drumsticks
+7. Radish
+8. Mustard oil
+9. Nigella seeds (kalonji)
+10. Turmeric powder
+11. Mustard paste
+12. Poppy seed paste (posto)
+13. Green chilies
+14. Ginger paste
+15. Panch phoron
+16. Milk or coconut milk
+17. Water
+18. Salt to taste
 
 ### Instructions:
 
-1. Prepare the Vegetables:
+1. **Prepare the Vegetables:**
 
    - Wash and peel the vegetables as needed.
    - Slice the bitter gourd, raw banana, sweet potato, and eggplant into thin, uniform pieces.
    - Cut drumsticks and radish into appropriate lengths.
 
-2. Parboil the Vegetables:
+2. **Parboil the Vegetables:**
 
    - Boil the bitter gourd, drumsticks, raw banana, sweet potato, and radish in a pot of water with a pinch of turmeric until they are partially cooked. Drain and set aside.
 
-3. Temper the Mustard Oil:
+3. **Temper the Mustard Oil:**
 
    - Heat mustard oil in a deep pan or kadai until it reaches smoking point.
    - Let it cool for a moment to reduce its pungency.
 
-4. Temper with Panch Phoron:
+4. **Temper with Panch Phoron:**
 
    - Add panch phoron and nigella seeds to the hot oil.
    - Allow them to splutter and release their aroma.
 
-5. Add Vegetables:
+5. **Add Vegetables:**
 
    - Add the partially cooked vegetables to the pan.
 
-6. Spice it Up:
+6. **Spice it Up:**
 
    - Sprinkle turmeric powder and salt over the vegetables.
    - Stir well to coat the vegetables with the spices.
 
-7. Make a Spice Paste:
+7. **Make a Spice Paste:**
 
    - In a bowl, mix mustard paste, poppy seed paste, ginger paste, and a little water to form a smooth paste.
 
-8. Add Spice Paste:
+8. **Add Spice Paste:**
 
    - Add the spice paste to the vegetables and mix thoroughly.
 
-9. Pour in Milk or Coconut Milk:
+9. **Pour in Milk or Coconut Milk:**
 
    - Pour in milk or coconut milk to achieve a creamy consistency. Adjust the quantity based on your preference.
 
-10. Simmer and Cook:
+10. **Simmer and Cook:**
 
     - Allow the Shukto to simmer on low heat until the vegetables are fully cooked and the flavors have melded together.
 
-11. Adjust Seasoning:
+11. **Adjust Seasoning:**
 
     - Taste and adjust the salt and sugar as needed to balance the flavors.
 
-12. Finish with Green Chilies:
+12. **Finish with Green Chilies:**
 
     - Add sliced green chilies for heat, and stir them into the Shukto.
 
-13. Optional: Add Ghee and Garam Masala:
+13. **Optional: Add Ghee and Garam Masala:**
 
     - For additional flavor, you can add a small amount of ghee and a pinch of garam masala towards the end.
 
-14. Serve:
+14. **Serve:**
 
     - Once the vegetables are tender and the curry has reached the desired consistency, remove from heat.
 
-15. Serve with Rice:
+15. **Serve with Rice:**
     - Shukto is traditionally served with steamed rice.
 
 Enjoy your homemade Shukto! Feel free to adapt the recipe to your taste preferences and experiment with different vegetables and spices.
