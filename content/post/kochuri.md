@@ -61,7 +61,7 @@ Kochuri, also known as kachori, is a popular deep-fried snack originating from t
    - Heat oil in a deep frying pan. Fry the kochuris until they are golden brown and crispy.
    - Remove excess oil by placing them on absorbent paper.
 
-Serve hot kochuri with your favorite chutney or a side of aloo dum (spiced potatoes) or [Chholar dal](./chholar-dal.md). Adjust the spices and quantities according to your taste preferences.
+Serve hot kochuri with your favorite chutney or a side of aloo dum (spiced potatoes) or Chholar dal. Adjust the spices and quantities according to your taste preferences.
 
 ## Places where to try this dish
 
