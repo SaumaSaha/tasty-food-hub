@@ -75,7 +75,7 @@ The combination of aromatic spices, coconut, and ghee gives Bengali style Chhola
    - Optionally, you can garnish the Chholar Dal with fresh coriander leaves for added flavor and freshness.
 
 10. **Serve:**
-    - Bengali style Chholar Dal is typically served hot and is a great accompaniment to Kochuri or steamed rice.
+    - Bengali style Chholar Dal is typically served hot and is a great accompaniment to [kochuri]({{< relref "/content/post/kochuri.md" >}}) or steamed rice.
 
 Enjoy your delicious Bengali-style Chholar Dal!
 
