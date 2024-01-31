@@ -16,26 +16,26 @@ Patishapta is a traditional Bengali dessert that is popularly made during the fe
 
 #### For the Crepes:
 
-- 1 cup rice flour
-- 1/2 cup all-purpose flour
-- 1 cup milk
-- 1 cup water
-- A pinch of salt
-- Ghee or oil for cooking
+1. 1 cup rice flour
+2. 1/2 cup all-purpose flour
+3. 1 cup milk
+4. 1 cup water
+5. A pinch of salt
+6. Ghee or oil for cooking
 
 #### For the Filling:
 
-- 1 cup grated coconut
-- 1 cup khoya (reduced solidified milk)
-- 1 cup jaggery (grated or finely chopped)
-- 1/2 cup chopped nuts (cashews, almonds, pistachios)
-- 1/2 cup condensed milk (optional)
-- 1/2 teaspoon cardamom powder
+1. 1 cup grated coconut
+2. 1 cup khoya (reduced solidified milk)
+3. 1 cup jaggery (grated or finely chopped)
+4. 1/2 cup chopped nuts (cashews, almonds, pistachios)
+5. 1/2 cup condensed milk (optional)
+6. 1/2 teaspoon cardamom powder
 
 #### For Garnish (optional):
 
-- Chopped nuts
-- Grated coconut
+1. Chopped nuts
+2. Grated coconut
 
 ## Instructions
 
