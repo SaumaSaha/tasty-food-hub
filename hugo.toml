@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://saumasaha.github.io/tasty-food-hub/'
 languageCode = 'en-us'
 title = 'Tasty Food Hub'
 theme = 'ananke'
