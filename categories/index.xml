@@ -5,6 +5,7 @@
     <link>https://saumasaha.github.io/tasty-food-hub/categories/</link>
     <description>Recent content in Categories on Tasty Food Hub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://saumasaha.github.io/tasty-food-hub/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://saumasaha.github.io/tasty-food-hub/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
