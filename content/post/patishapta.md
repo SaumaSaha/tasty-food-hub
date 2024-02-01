@@ -14,7 +14,7 @@ Patishapta is a traditional Bengali dessert that is popularly made during the fe
 
 ---
 
-#### For the Crepes:
+### For the Crepes:
 
 1. 1 cup rice flour
 2. 1/2 cup all-purpose flour
@@ -23,7 +23,7 @@ Patishapta is a traditional Bengali dessert that is popularly made during the fe
 5. A pinch of salt
 6. Ghee or oil for cooking
 
-#### For the Filling:
+### For the Filling:
 
 1. 1 cup grated coconut
 2. 1 cup khoya (reduced solidified milk)
@@ -32,7 +32,7 @@ Patishapta is a traditional Bengali dessert that is popularly made during the fe
 5. 1/2 cup condensed milk (optional)
 6. 1/2 teaspoon cardamom powder
 
-#### For Garnish (optional):
+### For Garnish (optional):
 
 1. Chopped nuts
 2. Grated coconut
