@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tasty Food Hub</title>
+    <link>https://saumasaha.github.io/tasty-food-hub/</link>
+    <description>Recent content on Tasty Food Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://saumasaha.github.io/tasty-food-hub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food Items</title>
+      <link>https://saumasaha.github.io/tasty-food-hub/post/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://saumasaha.github.io/tasty-food-hub/post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
