@@ -1,7 +1,7 @@
 +++
 title = 'Bhetki Macher Paturi'
 date = 2024-01-18T08:04:25+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

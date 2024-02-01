@@ -1,7 +1,7 @@
 +++
 title = 'Aloo Posto'
 date = 2024-01-19T07:43:36+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

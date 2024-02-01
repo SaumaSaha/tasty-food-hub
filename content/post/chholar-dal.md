@@ -1,7 +1,7 @@
 +++
 title = 'Chholar Dal'
 date = 2024-01-23T14:01:18+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

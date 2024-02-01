@@ -1,7 +1,7 @@
 +++
 title = 'Mutton Kosha'
 date = 2024-01-21T01:08:57+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

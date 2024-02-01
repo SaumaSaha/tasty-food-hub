@@ -1,7 +1,7 @@
 +++
 title = 'Mishti Doi'
 date = 2024-01-29T23:27:08+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

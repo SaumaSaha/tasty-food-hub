@@ -1,7 +1,7 @@
 +++
 title = 'Patishapta'
 date = 2024-01-30T13:53:09+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

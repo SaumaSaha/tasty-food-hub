@@ -1,7 +1,7 @@
 +++
 title = 'Fish Fry'
 date = 2024-01-17T08:48:47+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

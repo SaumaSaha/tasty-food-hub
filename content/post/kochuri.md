@@ -1,7 +1,7 @@
 +++
 title = 'Kochuri'
 date = 2024-01-24T09:50:50+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

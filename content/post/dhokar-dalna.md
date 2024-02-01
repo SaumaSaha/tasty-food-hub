@@ -1,7 +1,7 @@
 +++
 title = 'Dhokar Dalna'
 date = 2024-01-27T22:56:32+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

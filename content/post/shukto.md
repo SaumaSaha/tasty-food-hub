@@ -1,7 +1,7 @@
 +++
 title = 'Shukto'
 date = 2024-01-22T23:47:04+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction

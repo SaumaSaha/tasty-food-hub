@@ -1,7 +1,7 @@
 +++
 title = 'Mochar Ghonto'
 date = 2024-01-26T15:51:01+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction
