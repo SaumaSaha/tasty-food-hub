@@ -83,12 +83,13 @@ Now you have a batch of delicious homemade roshogolla ready to be served as a de
 4. [Nalin Chandra Das and Sons](https://maps.app.goo.gl/Hwf3jFD8rumdVkny5)
 5. [Girish Ch. Dey & Nakur Ch. Nandy](https://maps.app.goo.gl/hwCw3BK3eToqCqg97)
 6. [Ganguram Sweets](https://maps.app.goo.gl/bNh84UTqMqFutyze6)
-7. [Narendra Mistanna Bhander](https://maps.app.goo.gl/TZNmCKoK8RpUQ1gc7)
-8. [Gokul Shree Sweets](https://maps.app.goo.gl/9REngXz1D58wPCjr9)
-9. [Chittaranjan Mistanna Bhandar](https://maps.app.goo.gl/Rfbs3FZZtkVtnwUw8)
-10. [Suresh Mistanna Bhandar](https://maps.app.goo.gl/HH2aXE8i7LPz3ZDH8)
-11. [KOTAL'S Satyanarayan](https://maps.app.goo.gl/bgBZgGrwKUixcbCD8)
-12. [Nani Lal Ghosh](https://maps.app.goo.gl/ppnGQ24frdyxm75i9)
+7. [Nobin Chandra Das](https://maps.app.goo.gl/fHBsYhm8gPh1mYpx5)
+8. [Narendra Mistanna Bhander](https://maps.app.goo.gl/TZNmCKoK8RpUQ1gc7)
+9. [Gokul Shree Sweets](https://maps.app.goo.gl/9REngXz1D58wPCjr9)
+10. [Chittaranjan Mistanna Bhandar](https://maps.app.goo.gl/Rfbs3FZZtkVtnwUw8)
+11. [Suresh Mistanna Bhandar](https://maps.app.goo.gl/HH2aXE8i7LPz3ZDH8)
+12. [KOTAL'S Satyanarayan](https://maps.app.goo.gl/bgBZgGrwKUixcbCD8)
+13. [Nani Lal Ghosh](https://maps.app.goo.gl/ppnGQ24frdyxm75i9)
 
 ## History
 
@@ -97,15 +98,18 @@ Now you have a batch of delicious homemade roshogolla ready to be served as a de
 The history of roshogolla is a subject of debate and has been a matter of cultural pride, particularly between the Indian states of West Bengal and Odisha. Both states claim to be the place of origin for this sweet delicacy. While the precise origin remains contested, the general consensus is that roshogolla has deep roots in the Indian subcontinent.
 
 **1. West Bengal's Claim:**
-   - According to popular belief and some historical records, roshogolla is often associated with the city of Kolkata in West Bengal, and its origin is attributed to the iconic sweetmeat shop called "Nabin Chandra Das & Sons," founded by confectioner Nabin Chandra Das in the late 19th century.
-   - Legend has it that Nabin Chandra Das created roshogolla in 1868. He is said to have experimented with different methods to perfect the art of making spongy and soft rasgullas. The success of his creation established him as a pioneer in the world of Bengali sweets.
+
+- According to popular belief and some historical records, roshogolla is often associated with the city of Kolkata in West Bengal, and its origin is attributed to the iconic sweetmeat shop called "Nabin Chandra Das & Sons," founded by confectioner Nabin Chandra Das in the late 19th century.
+- Legend has it that Nabin Chandra Das created roshogolla in 1868. He is said to have experimented with different methods to perfect the art of making spongy and soft rasgullas. The success of his creation established him as a pioneer in the world of Bengali sweets.
 
 **2. Odisha's Claim:**
-   - Odisha also claims to be the birthplace of roshogolla, asserting that the sweet has been a part of its culinary heritage for centuries.
-   - Some historical references suggest that an ancient form of roshogolla called "Khira Mohana" was prepared in the Jagannath Temple in Puri, Odisha, long before Nabin Chandra Das popularized it in Bengal.
+
+- Odisha also claims to be the birthplace of roshogolla, asserting that the sweet has been a part of its culinary heritage for centuries.
+- Some historical references suggest that an ancient form of roshogolla called "Khira Mohana" was prepared in the Jagannath Temple in Puri, Odisha, long before Nabin Chandra Das popularized it in Bengal.
 
 **Controversy:**
-   - The battle over the origin of roshogolla led to a significant controversy, and both West Bengal and Odisha sought Geographical Indication (GI) tags to establish the regional authenticity of the sweet.
-   - In 2017, the Geographical Indications Registry under the Government of India granted the GI tag for "Banglar Rasogolla" (Rasgulla from Bengal), acknowledging West Bengal as the place of origin. This decision was based on historical evidence and the role played by Nabin Chandra Das in popularizing roshogolla.
+
+- The battle over the origin of roshogolla led to a significant controversy, and both West Bengal and Odisha sought Geographical Indication (GI) tags to establish the regional authenticity of the sweet.
+- In 2017, the Geographical Indications Registry under the Government of India granted the GI tag for "Banglar Rasogolla" (Rasgulla from Bengal), acknowledging West Bengal as the place of origin. This decision was based on historical evidence and the role played by Nabin Chandra Das in popularizing roshogolla.
 
 In conclusion, while the origin of roshogolla remains debated, it is widely accepted that the sweet has become an integral part of Indian culture, enjoyed by people across the country and beyond. The rivalry over its origin adds an interesting layer to the cultural and culinary history of the Indian subcontinent.
