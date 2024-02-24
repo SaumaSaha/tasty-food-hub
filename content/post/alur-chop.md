@@ -79,9 +79,10 @@ This detailed preparation will give you delicious and crispy alur chops that are
 
 1. [Machhli Baba Fries-Ballygunge](https://maps.app.goo.gl/HX6RkbDzCghV7cs46)
 2. [Lakshmi Narayan Shaw And Sons](https://maps.app.goo.gl/uggwarf1Ao1mojTA9)
-3. [Kalpataru](https://maps.app.goo.gl/8Fs4xGufJ5tYwAPJ8)
-4. [Mukharuchi](https://maps.app.goo.gl/vkgDQPcggCVV7SZ46)
-5. [Dilkhusha cabin](https://maps.app.goo.gl/QtZiVKjFpe3F1NGs9)
+3. [Kalika](https://maps.app.goo.gl/cU6UVyX9JGYUT8LS7)
+4. [Kalpataru](https://maps.app.goo.gl/8Fs4xGufJ5tYwAPJ8)
+5. [Mukharuchi](https://maps.app.goo.gl/vkgDQPcggCVV7SZ46)
+6. [Dilkhusha cabin](https://maps.app.goo.gl/QtZiVKjFpe3F1NGs9)
 
 ## History
 
