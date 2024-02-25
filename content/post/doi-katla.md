@@ -1,6 +1,6 @@
 +++
 title = 'Doi Katla'
-date = 2024-02-25T22:25:26+05:30
+date = 2024-02-15T22:25:26+05:30
 draft = false
 +++
 
